@@ -6,7 +6,7 @@ description: Researcher at JISS
 ---
 
 # Profile
-！[portrait](katton3104.github.io/portrait.JPG)
+！[portrait](images/portrait.JPG)
 
 # Publications
 
