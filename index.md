@@ -6,7 +6,7 @@ description: Researcher at JISS
 ---
 
 # Profile
-！[portrait](images/portrait.JPG)
+！[[portrait]](images/portrait.JPG)
 
 # Publications
 
