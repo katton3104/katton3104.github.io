@@ -7,21 +7,15 @@ description: Researcher at JISS
 
 # Profile
 <div style="display: flex; align-items: flex-start; gap: 20px;">
-
 <div style="flex: 1;">
-
-**Satoshi Kato**  
-Graduated from the Department of Information, Faculty of Education, Tokyo Gakugei University, and completed a master’s degree in Health and Physical Education at its Graduate School. He then earned a Doctor of Engineering in Computer Science from the Graduate School of Systems and Information Engineering at the University of Tsukuba.  
-After working as a researcher at the Medical IT Center, Nagoya University, he is currently a research fellow at the Japan Institute of Sports Sciences (JISS).  
-His early research focused on applying machine learning and statistical analysis to judo, including methods to predict which throwing techniques are likely to follow from specific kumite postures and to identify key posture factors for executing successful throws.  
-Currently, his research focuses on curling, developing AI for tactical decision-making and predicting stone trajectories.
-
+Graduated from the Department of Information, Faculty of Education, Tokyo Gakugei University, and completed a master’s degree in Health and Physical Education at its Graduate School. I then earned a Doctor of Engineering in Computer Science from the Graduate School of Systems and Information Engineering at the University of Tsukuba.  
+After working as a researcher at the Medical IT Center, Nagoya University, I am currently a research fellow at the Japan Institute of Sports Sciences (JISS).  
+My early research focused on applying machine learning and statistical analysis to judo, including methods to predict which throwing techniques are likely to follow from specific Kumite postures and to identify key posture factors for executing successful throws.  
+Currently, my research focuses on curling, developing AI for tactical decision-making and predicting stone trajectories.
 </div>
-
 <div style="flex: 0 0 auto;">
   <img src="images/portrait.JPG" alt="portrait" style="width:300px; height:300px;">
 </div>
-
 </div>
 
 # Contents
