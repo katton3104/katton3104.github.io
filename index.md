@@ -14,7 +14,7 @@ My early research focused on applying machine learning and statistical analysis 
 Currently, my research focuses on curling, developing AI for tactical decision-making and predicting stone trajectories.
 </div>
 <div style="flex: 0 0 auto;">
-  <img src="images/portrait.JPG" alt="portrait" style="width:300px; height:300px;">
+  <img src="images/portrait.JPG" alt="portrait" style="width:200px; height:200px;">
 </div>
 </div>
 
